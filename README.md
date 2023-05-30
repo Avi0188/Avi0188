@@ -18,7 +18,7 @@ Hello stranger! My name is Abhishek Rai and I am a Full Stack Node Developer, pa
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=avi0188&label=Profile%20views&color=0e75b6&style=flat" alt="Avi0188" /> </p>
 <img align="right" alt="Coding" width="400"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently pursuing **Full Stack Node Development**
+- 🔭 I’m currently pursuing **Full Stack MERN Developer**
 
 -    Checkout my **[Resume](https://drive.google.com/file/d/1dipXkaaT1jQBbob6-OvZo0U5xSPRLGHa/view?usp=sharing)**
 
