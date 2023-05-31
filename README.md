@@ -260,7 +260,7 @@ Hello stranger! My name is Abhishek Rai and I am a Full Stack Node Developer, pa
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Aman Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Avi0188&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Abhishek Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Avi0188&theme=react-dark&hide_border=true" /></a>
 
 <br> 
 <div align="center">
