@@ -260,7 +260,7 @@ Hello stranger! My name is Abhishek Rai and I am a Full Stack MERN Developer, pa
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Abhishek Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Avi0188&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Abhishek Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Avi0188&bg_color=d1e0ff&color=4c8a9e&line=524c9e&point=413f3e&area=true&hide_border=true" /></a>
 
 <br> 
 <div align="center">
