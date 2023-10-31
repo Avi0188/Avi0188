@@ -36,7 +36,8 @@ Hello stranger! My name is Abhishek Rai and I am a Full Stack MERN Developer, pa
 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
-[![!PortFolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://Avi0188.github.io/)
+[![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=web&logoColor=white)](https://Avi0188.github.io/)
+
 
 <h2 align="left">⚡ Tech Stack</h2>
 <table align="center">
