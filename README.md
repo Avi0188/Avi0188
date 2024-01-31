@@ -20,7 +20,7 @@ Hello stranger! My name is Abhishek Rai and I am a Full Stack MERN Developer, pa
 
 - 🔭 I’m currently pursuing **Full Stack MERN Developer**
 
--    Checkout my **[Resume](https://drive.google.com/file/d/1dipXkaaT1jQBbob6-OvZo0U5xSPRLGHa/view?usp=sharing)**
+-    Checkout my **[Resume](https://drive.google.com/file/d/1tuqEjIrOqMARNNf5sMo-x4l6oYRePAw8/view?usp=sharing)**
 
 - 🌱 I’m currently learning **MERN stack**
 
